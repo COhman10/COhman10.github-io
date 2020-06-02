@@ -1,0 +1,34 @@
+body {
+  background: cornflowerblue;
+  text-align:center
+}
+p {
+  color: black;
+  font-family:monospace;
+}
+h1 {
+  font-weight: bold;
+  color: darkgreen;
+  font-family:inherit;
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+h2  {
+  color: darkgreen;
+  font-family:fantasy;
+  font-size: 30px
+  
+}
+
+img {
+  border-style: inset;
+  border-radius: 30;
+  border-color:deepskyblue
+}
+
+.lists {
+  color: rgb(255,53,0);
+    font-family:cursive;
+  font-size: 18px;
+}
